@@ -1,0 +1,19 @@
+{
+    "ip": "",
+    "port": "80",
+    "root": "D:\\GoLand\\HttpServer\\msdl.microsoft.com",
+    "path": [
+        {
+            "path": "/zoo",
+            "exec": ""
+        },
+        {
+            "path": "/sha",
+            "exec": ""
+        },
+        {
+            "path": "/file",
+            "exec": ""
+        }
+    ]
+}
