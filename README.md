@@ -1,0 +1,2 @@
+# MicrosoftSymbolServerProxy
+微软符号服务器的一个跳板
